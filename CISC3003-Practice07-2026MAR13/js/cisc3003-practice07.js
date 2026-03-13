@@ -3,7 +3,6 @@ window.addEventListener('load', function() {
     // --- 部分 1: 高亮功能 ---
     var highlightElements = document.querySelectorAll('.hilightable');
 
-    // 也可以定义一个函数来处理切换，这样代码更整洁
     function toggleHighlight() {
         this.classList.toggle('highlight');
     }
