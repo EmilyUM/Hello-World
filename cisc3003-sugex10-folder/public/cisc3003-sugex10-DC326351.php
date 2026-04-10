@@ -140,7 +140,9 @@ if ($customerId) {
            
            
             </div>  <!-- / mdl-grid -->    
-
+            <footer class="page-footer">
+                CISC3003 Web Programming: FAN ZOU CHEN DC326351 2026
+            </footer>
         </section>
     </main>    
 </div>    <!-- / mdl-layout --> 
